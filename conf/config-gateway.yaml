@@ -1,0 +1,30 @@
+chain_url: https://straitchain.com/webgateway
+accounts:
+  - username: 1669971502@qq.com
+    password: qwer1234
+    address: '0xf539959202351e89a355eb14a62e9def43ffd88f'
+    app_id: Ps9WIoof
+    app_key: 9743abeda378ee68bc1efe4b2f218c94bad6543f
+    nft_service_id: 4Dbz3ZeG
+    chain_name: prod-evmos
+  - username: ryaningli@qq.com
+    password: qwer1234
+    address: '0xf539959202351e89a355eb14a62e9def43ffd88f'
+    app_id: Ps9WIoof
+    app_key: 9743abeda378ee68bc1efe4b2f218c94bad6543f
+    nft_service_id: 4Dbz3ZeG
+    chain_name: test-evmos
+  - username: ryaningli@163.com
+    password: qwer1234
+    address: '0xE46011b1C72c3A8EE96A55979dCBab719c1D2706'
+    app_id: UikAKb3Z
+    app_key: 0f3e05f4d1b9d759060e35225da3e629407d29e3
+    nft_service_id: P2ZUwM3M
+    chain_name: prod-polygon
+  - username: operation@straitchain.com
+    password: SC20220331
+    address: '0x9db8cac77964189b70e3128c2dc31e3034b529c1'
+    app_id: zDaX0Cm0
+    app_key: 9dc7606f796bf2e775cf4e59b5af98a46cebfd21
+    nft_service_id: bX1ynUK7
+    chain_name: test-evmos

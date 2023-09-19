@@ -1,0 +1,13 @@
+jsonrpc: '2.0'
+default_request_headers:
+  Content-Type: application/json
+request_kwargs:
+  timeout: 10
+chain_func_prefix: scs_
+gas: 150000
+gas_price: 563000000007
+log_level: DEBUG
+chain_urn: /api/develop/straits/action
+gateway_urn: /api/gateway/straits/action
+chain_eth_urn: /api/develop/action
+ipfs_urn: /api/develop/ipfsUpload

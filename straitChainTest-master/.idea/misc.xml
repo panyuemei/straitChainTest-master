@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="840" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/core/web3/main.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2213" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/core/ipfs/ipfs.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="952" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/core/web3/scs.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2693" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/apps/nft/nft.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="142" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/settings.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3364" />
+          <option name="fileUrl" value="file:///usr/local/lib/python3.10/site-packages/eth_utils/conversions.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1983" />
+          <option name="fileUrl" value="file:///usr/local/lib/python3.10/site-packages/apscheduler/schedulers/base.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="327" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/temp/temp1.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$APPLICATION_CONFIG_DIR$/consoles/db/b1d03222-6b86-4f78-87f8-1bee5a3c471f/console.sql" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="12931" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/tools/million/million_script.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

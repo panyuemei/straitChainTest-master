@@ -1,0 +1,30 @@
+chain_url: http://192.168.80.15/strait-chain-client-test
+accounts:
+  - username: test200@qq.com
+    password: qwer1234
+    address: '0x6d61dbfb32599cd94fee1c8fab1e80e2ee8623d7'
+    app_id: gPAEQ1U7
+    app_key: 25193d0a7e08c1638e0d336f223708693fa27253
+    nft_service_id: 33BFWBCU
+    chain_name: test-evmos
+  - username: test200_1@qq.com
+    password: qwer1234
+    address: '0x9b4F8a365aBE68cb065AfdB1a8835Da460114efb'
+    app_id: cvliEuCs
+    app_key: 04c5c6dcde4a2d5ac07b502248bb1b53c6a69f72
+    nft_service_id:
+    chain_name: test-evmos
+  - username: test500@qq.com
+    password: qwer1234
+    address: '0x9b4F8a365aBE68cb065AfdB1a8835Da460114efb'
+    app_id: cvliEuCs
+    app_key: 04c5c6dcde4a2d5ac07b502248bb1b53c6a69f72
+    nft_service_id:
+    chain_name: test-polygon
+  - username: test501@qq.com
+    password: qwer1234
+    address: '0x5D46cc338c6dCE291482ccC35Fa0A72F13181c95'
+    app_id: cvliEuCs
+    app_key: 04c5c6dcde4a2d5ac07b502248bb1b53c6a69f72
+    nft_service_id:
+    chain_name: test-polygon

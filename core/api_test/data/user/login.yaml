@@ -1,0 +1,8 @@
+common:
+  name: 登录接口
+  host:
+  url_prefix:
+  url: /user/login
+  assert:
+case:
+  - name: 正常登录

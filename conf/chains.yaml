@@ -1,0 +1,16 @@
+-
+  chain_name: test-evmos
+  chain_code: ScOcc02001
+  chain_id: 20220101
+-
+  chain_name: test-polygon
+  chain_code: ScOcc03001
+  chain_id: 80001
+-
+  chain_name: prod-evmos
+  chain_code: ScOcc02001
+  chain_id: 20180818
+-
+  chain_name: prod-polygon
+  chain_code: ScOcc03001
+  chain_id: 20220331
